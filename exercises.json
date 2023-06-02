@@ -1,0 +1,20 @@
+{
+  "exercises": {
+    "abc": {
+      "exhale": 2,
+      "hold": 3,
+      "id": "abc",
+      "inhale": 1,
+      "title": "Online Relax",
+      "wait": 4
+    },
+    "def": {
+      "exhale": 4,
+      "hold": 5,
+      "id": "def",
+      "inhale": 3,
+      "title": "Online Chill",
+      "wait": 6
+    }
+  }
+}
