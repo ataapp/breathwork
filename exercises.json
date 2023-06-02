@@ -1,5 +1,4 @@
 {
-  "exercises": {
     "abc": {
       "exhale": 2,
       "hold": 3,
@@ -16,5 +15,4 @@
       "title": "Online Chill",
       "wait": 6
     }
-  }
 }
