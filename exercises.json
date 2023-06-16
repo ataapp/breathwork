@@ -1,18 +1,18 @@
 {
     "prana": {
       "id": "dprana",
-      "title": "Prana"
+      "title": "Prana",
       "inhale": 7,
       "hold": 4,
       "exhale": 8,
-      "wait": 4,
+      "wait": 4
     },
     "ujjayi": {
       "id": "dujjayi",
-      "title": "Ujjayi"
+      "title": "Ujjayi",
       "inhale": 7,
       "hold": 0,
       "exhale": 7,
-      "wait": 0,
+      "wait": 0
     }
 }
