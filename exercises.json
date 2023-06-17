@@ -14,5 +14,14 @@
       "hold": 0,
       "exhale": 7,
       "wait": 0
+    },
+    "lion": {
+      "id": "dlion",
+      "title": "Lion's Breath",
+      "inhale": 4,
+      "hold": 0,
+      "exhale": 7,
+      "wait": 0, 
+      "translate": {"es": "Respiración de león", "fr": "Respiration du lion"}
     }
 }
