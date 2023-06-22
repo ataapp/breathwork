@@ -1,27 +1,51 @@
 {
-    "prana": {
-      "id": "dprana",
-      "title": "Prana",
-      "inhale": 7,
-      "hold": 4,
-      "exhale": 8,
-      "wait": 4
-    },
-    "ujjayi": {
-      "id": "dujjayi",
-      "title": "Ujjayi",
-      "inhale": 7,
-      "hold": 0,
-      "exhale": 7,
-      "wait": 0
-    },
-    "lion": {
-      "id": "dlion",
-      "title": "Lion's Breath",
-      "inhale": 4,
-      "hold": 0,
-      "exhale": 7,
-      "wait": 0, 
-      "translate": {"es": "Respiración de león", "fr": "Respiration du lion"}
-    }
+	"prana": {
+		"id": "dpranayama",
+		"title": "Pranayama",
+		"inhale": 7,
+		"hold": 4,
+		"exhale": 8,
+		"wait": 4
+	},
+	"ujjayi": {
+		"id": "dujjayi",
+		"title": "Ujjayi",
+		"inhale": 7,
+		"hold": 0,
+		"exhale": 7,
+		"wait": 0
+	},
+	"lion": {
+		"id": "dlion",
+		"title": "Lion's Breath",
+		"inhale": 4,
+		"hold": 0,
+		"exhale": 7,
+		"wait": 0,
+		"translate": {
+			"es": "Respiración de león",
+			"fr": "Respiration du lion"
+		}
+	},
+	"coherencecardiaque": {
+		"title": "Cohérence cardiaque ",
+		"id": "dcoherencecardiaque",
+		"inhale": 5,
+		"hold": 0,
+		"exhale": 5,
+		"wait": 0
+	},
+	"nefesEgzersizi": {
+		"title": "Nefes Egzersizi",
+		"id": "dnefesegzersizi",
+		"inhale": 4,
+		"hold": 2,
+		"exhale": 6,
+		"wait": 2,
+		"translate": {
+			"fr": "Respiration de Nefes",
+			"es": "Respiración Nefes",
+			"en": "Nefes Breathing"
+		}
+	}
 }
