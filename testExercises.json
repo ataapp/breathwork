@@ -92,5 +92,13 @@
 		"translate": {
 			"ko": "1분호흡(4선정)"
 		}
+	},
+	"shortbox": {
+		"title": "Short Box Breathing",
+		"id": "dshortbox",
+		"inhale": 2,
+		"hold": 2,
+		"exhale": 2,
+		"wait": 2
 	}
 }
