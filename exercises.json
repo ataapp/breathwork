@@ -27,6 +27,30 @@
 			"fr": "Respiration du lion"
 		}
 	},
+	"whm1": {
+                "title": "WHM (Iceman) 1",
+		"id": "dwhm1",
+		"inhale": 2,
+		"hold": 0,
+		"exhale": 2,
+		"wait": 0
+	},
+	"whm2": {
+                "title": "WHM (Iceman) 2",
+		"id": "dwhm2",
+		"inhale": 2,
+		"hold": 0,
+		"exhale": 2,
+		"wait": 30
+	},
+	"whm3": {
+                "title": "WHM (Iceman) 3",
+		"id": "dwhm3",
+		"inhale": 2,
+		"hold": 15,
+		"exhale": 2,
+		"wait": 2
+	},
 	"coherencecardiaque": {
 		"title": "Cohérence cardiaque ",
 		"id": "dcoherencecardiaque",
@@ -43,9 +67,38 @@
 		"exhale": 6,
 		"wait": 2,
 		"translate": {
-			"fr": "Respiration de Nefes",
 			"es": "Respiración Nefes",
 			"en": "Nefes Breathing"
 		}
+	},
+	"onemin1": {
+		"title": "One Minute Breathing (10s)",
+		"id": "donemin1",
+		"inhale": 5,
+		"hold": 0,
+		"exhale": 5,
+		"wait": 0,
+		"translate": {
+			"ko": "1분호흡(10초)"
+		}
+	},
+	"onemin2": {
+		"title": "One Minute Breathing (1m)",
+		"id": "donemin2",
+		"inhale": 30,
+		"hold": 0,
+		"exhale": 30,
+		"wait": 0,
+		"translate": {
+			"ko": "1분호흡(4선정)"
+		}
+	},
+	"shortbox": {
+		"title": "Short Box Breathing",
+		"id": "dshortbox",
+		"inhale": 2,
+		"hold": 2,
+		"exhale": 2,
+		"wait": 2
 	}
 }
