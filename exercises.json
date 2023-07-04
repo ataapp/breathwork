@@ -15,6 +15,23 @@
 		"exhale": 7,
 		"wait": 0
 	},
+	"slow": {
+		"id": "dslow",
+		"title": "Slow Breathing for Asthma",
+		"inhale": 2,
+		"hold": 0,
+		"exhale": 3,
+		"wait": 2,
+		"translate": {
+			"es": "Respiración lenta para el asma",
+			"fr": "Respiration lente pour l'asthme",
+			"tr": "Astım İçin Yavaş Nefes Alma",
+			"de": "Langsames Atmen bei Asthma",
+			"ja": "喘息のためのゆっくりとした呼吸",
+			"ko": "천식에 대한 느린 호흡",
+			"pt": "Respiração lenta para asma"
+		}
+	},
 	"lion": {
 		"id": "dlion",
 		"title": "Lion's Breath",
