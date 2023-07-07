@@ -45,7 +45,7 @@
 		}
 	},
 	"whm1": {
-                "title": "WHM (Iceman) 1",
+		"title": "WHM (Iceman) 1",
 		"id": "dwhm1",
 		"inhale": 2,
 		"hold": 0,
@@ -53,7 +53,7 @@
 		"wait": 0
 	},
 	"whm2": {
-                "title": "WHM (Iceman) 2",
+		"title": "WHM (Iceman) 2",
 		"id": "dwhm2",
 		"inhale": 2,
 		"hold": 0,
@@ -61,7 +61,7 @@
 		"wait": 30
 	},
 	"whm3": {
-                "title": "WHM (Iceman) 3",
+		"title": "WHM (Iceman) 3",
 		"id": "dwhm3",
 		"inhale": 2,
 		"hold": 15,
@@ -117,5 +117,21 @@
 		"hold": 2,
 		"exhale": 2,
 		"wait": 2
+	},
+	"b448": {
+		"title": "4·4·8 호흡",
+		"id": "db448",
+		"inhale": 4,
+		"hold": 4,
+		"exhale": 8,
+		"wait": 0
+	},
+	"antiapetite": {
+		"title": "Anti apetite",
+		"id": "dantiapetite",
+		"inhale": 5,
+		"hold": 0,
+		"exhale": 5,
+		"wait": 4
 	}
 }
