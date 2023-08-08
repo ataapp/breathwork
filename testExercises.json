@@ -156,7 +156,7 @@
 			"pt": "Ansiedade",
 			"ja": "不安",
 			"ko": "불안",
-			"vi": "Sự lo lắng",
+			"en": "Anxiety",
 			"tr": "Endişe"
 		}
 	},
@@ -182,7 +182,7 @@
 			"pt": "Estresse",
 			"ja": "ストレス",
 			"ko": "스트레스",
-			"vi": "Nhấn mạnh",
+			"en": "Stress",
 			"tr": "Stres"
 		}
 	},
