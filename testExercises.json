@@ -141,5 +141,65 @@
 		"hold": 4,
 		"exhale": 4,
 		"wait": 5
+	},
+	"ansiedad": {
+		"title": "Ansiedad",
+		"id": "dansiedad",
+		"inhale": 6,
+		"hold": 4,
+		"exhale": 6,
+		"wait": 0,
+		"translate": {
+			"fr": "Anxiété",
+			"de": "Angst",
+			"es": "Ansiedad",
+			"pt": "Ansiedade",
+			"ja": "不安",
+			"ko": "불안",
+			"vi": "Sự lo lắng",
+			"tr": "Endişe"
+		}
+	},
+	"urgence": {
+		"title": "Urgence émotion",
+		"id": "durgence",
+		"inhale": 6,
+		"hold": 0,
+		"exhale": 6,
+		"wait": 0
+	},
+	"estres": {
+		"title": "Estrés",
+		"id": "destres",
+		"inhale": 3,
+		"hold": 6,
+		"exhale": 3,
+		"wait": 6,
+		"translate": {
+			"fr": "Stress",
+			"de": "Betonen",
+			"es": "Estrés",
+			"pt": "Estresse",
+			"ja": "ストレス",
+			"ko": "스트레스",
+			"vi": "Nhấn mạnh",
+			"tr": "Stres"
+		}
+	},
+	"VibroCalm": {
+		"title": "VibroCalm",
+		"id": "dVibroCalm",
+		"inhale": 4,
+		"hold": 0,
+		"exhale": 5,
+		"wait": 1
+	},
+	"Kuzey": {
+		"title": "Kuzey Yıldız ilk aşk sefer ",
+		"id": "dKuzey",
+		"inhale": 11,
+		"hold": 13,
+		"exhale": 12,
+		"wait": 10
 	}
 }
