@@ -180,7 +180,7 @@
 			"de": "Betonen",
 			"es": "Estrés",
 			"pt": "Estresse",
-			"ja": "ストレス",
+			"ja": "ストレス軽減のため",
 			"ko": "스트레스",
 			"en": "Stress",
 			"tr": "Stres"
@@ -194,12 +194,54 @@
 		"exhale": 5,
 		"wait": 1
 	},
-	"Kuzey": {
-		"title": "Kuzey Yıldız ilk aşk sefer ",
-		"id": "dKuzey",
-		"inhale": 11,
-		"hold": 13,
-		"exhale": 12,
-		"wait": 10
+	"Vitalization": {
+		"title": "Revitalization ",
+		"id": "dVitalization",
+		"inhale": 6,
+		"hold": 0,
+		"exhale": 4,
+		"wait": 0,
+		"translate": {
+			"fr": "Redynamisation",
+			"de": "Revitalisierung",
+			"es": "Revitalización",
+			"pt": "Revitalização",
+			"ja": "活性化",
+			"ko": "활성화"
+		}
+	},
+	"DeepBreathingTherapy": {
+		"title": "Derin nefes terapisi",
+		"id": "dDeepBreathingTherapy",
+		"inhale": 4,
+		"hold": 2,
+		"exhale": 4,
+		"wait": 0,
+		"translate": {
+			"fr": "thérapie de respiration profonde",
+			"de": "tiefe Atemtherapie",
+			"es": "terapia de respiración profunda",
+			"pt": "terapia de respiração profunda",
+			"ja": "深呼吸療法",
+			"ko": "심호흡 요법",
+			"en": "Deep breathing therapy"
+		}
+	},
+	"Sleep2": {
+		"title": "Dormir 2",
+		"id": "dSleep2",
+		"inhale": 4,
+		"hold": 4,
+		"exhale": 8,
+		"wait": 4,
+		"translate": {
+			"de": "Schlafen",
+			"es": "terapia de respiración profunda",
+			"pt": "Dormir",
+			"ja": "寝る",
+			"ko": "잠",
+			"en": "To Sleep"
+		}
 	}
+
 }
