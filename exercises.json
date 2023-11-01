@@ -1,246 +1,310 @@
 {
-	"prana": {
-		"id": "dpranayama",
-		"title": "Pranayama",
-		"inhale": 7,
-		"hold": 4,
-		"exhale": 8,
-		"wait": 4
-	},
-	"ujjayi": {
-		"id": "dujjayi",
-		"title": "Ujjayi",
-		"inhale": 7,
-		"hold": 0,
-		"exhale": 7,
-		"wait": 0
-	},
-	"slow": {
-		"id": "dslow",
-		"title": "Slow Breathing for Asthma",
-		"inhale": 2,
-		"hold": 0,
-		"exhale": 3,
-		"wait": 2,
-		"translate": {
-			"es": "Respiración lenta para el asma",
-			"fr": "Respiration lente pour l'asthme",
-			"tr": "Astım İçin Yavaş Nefes Alma",
-			"de": "Langsames Atmen bei Asthma",
-			"ja": "喘息のためのゆっくりとした呼吸",
-			"ko": "천식에 대한 느린 호흡",
-			"pt": "Respiração lenta para asma"
-		}
-	},
-	"lion": {
-		"id": "dlion",
-		"title": "Lion's Breath",
-		"inhale": 4,
-		"hold": 0,
-		"exhale": 7,
-		"wait": 0,
-		"translate": {
-			"es": "Respiración de león",
-			"fr": "Respiration du lion"
-		}
-	},
-	"whm1": {
-		"title": "WHM (Iceman) 1",
-		"id": "dwhm1",
-		"inhale": 2,
-		"hold": 0,
-		"exhale": 2,
-		"wait": 0
-	},
-	"whm2": {
-		"title": "WHM (Iceman) 2",
-		"id": "dwhm2",
-		"inhale": 2,
-		"hold": 0,
-		"exhale": 2,
-		"wait": 30
-	},
-	"whm3": {
-		"title": "WHM (Iceman) 3",
-		"id": "dwhm3",
-		"inhale": 2,
-		"hold": 15,
-		"exhale": 2,
-		"wait": 2
-	},
-	"coherencecardiaque": {
-		"title": "Cohérence cardiaque ",
-		"id": "dcoherencecardiaque",
-		"inhale": 5,
-		"hold": 0,
-		"exhale": 5,
-		"wait": 0
-	},
-	"nefesEgzersizi": {
-		"title": "Nefes Egzersizi",
-		"id": "dnefesegzersizi",
-		"inhale": 4,
-		"hold": 2,
-		"exhale": 6,
-		"wait": 2,
-		"translate": {
-			"es": "Respiración Nefes",
-			"en": "Nefes Breathing"
-		}
-	},
-	"onemin1": {
-		"title": "One Minute Breathing (10s)",
-		"id": "donemin1",
-		"inhale": 5,
-		"hold": 0,
-		"exhale": 5,
-		"wait": 0,
-		"translate": {
-			"ko": "1분호흡(10초)"
-		}
-	},
-	"onemin2": {
-		"title": "One Minute Breathing (1m)",
-		"id": "donemin2",
-		"inhale": 30,
-		"hold": 0,
-		"exhale": 30,
-		"wait": 0,
-		"translate": {
-			"ko": "1분호흡(4선정)"
-		}
-	},
-	"shortbox": {
-		"title": "Short Box Breathing",
-		"id": "dshortbox",
-		"inhale": 2,
-		"hold": 2,
-		"exhale": 2,
-		"wait": 2
-	},
-	"b448": {
-		"title": "4·4·8 호흡",
-		"id": "db448",
-		"inhale": 4,
-		"hold": 4,
-		"exhale": 8,
-		"wait": 0
-	},
-	"antiapetite": {
-		"title": "Anti apetite",
-		"id": "dantiapetite",
-		"inhale": 5,
-		"hold": 0,
-		"exhale": 5,
-		"wait": 4
-	},
-	"karma": {
-		"title": "Karma",
-		"id": "dkarma",
-		"inhale": 8,
-		"hold": 4,
-		"exhale": 4,
-		"wait": 5
-	},
-	"ansiedad": {
-		"title": "Ansiedad",
-		"id": "dansiedad",
-		"inhale": 6,
-		"hold": 4,
-		"exhale": 6,
-		"wait": 0,
-		"translate": {
-			"fr": "Anxiété",
-			"de": "Angst",
-			"es": "Ansiedad",
-			"pt": "Ansiedade",
-			"ja": "不安",
-			"ko": "불안",
-			"en": "Anxiety",
-			"tr": "Endişe"
-		}
-	},
-	"urgence": {
-		"title": "Urgence émotion",
-		"id": "durgence",
-		"inhale": 6,
-		"hold": 0,
-		"exhale": 6,
-		"wait": 0
-	},
-	"estres": {
-		"title": "Estrés",
-		"id": "destres",
-		"inhale": 3,
-		"hold": 6,
-		"exhale": 3,
-		"wait": 6,
-		"translate": {
-			"fr": "Stress",
-			"de": "Betonen",
-			"es": "Estrés",
-			"pt": "Estresse",
-			"ja": "ストレス軽減のため",
-			"ko": "스트레스",
-			"en": "Stress",
-			"tr": "Stres"
-		}
-	},
-	"VibroCalm": {
-		"title": "VibroCalm",
-		"id": "dVibroCalm",
-		"inhale": 4,
-		"hold": 0,
-		"exhale": 5,
-		"wait": 1
-	},
-	"Vitalization": {
-		"title": "Revitalization ",
-		"id": "dVitalization",
-		"inhale": 6,
-		"hold": 0,
-		"exhale": 4,
-		"wait": 0,
-		"translate": {
-			"fr": "Redynamisation",
-			"de": "Revitalisierung",
-			"es": "Revitalización",
-			"pt": "Revitalização",
-			"ja": "活性化",
-			"ko": "활성화"
-		}
-	},
-	"DeepBreathingTherapy": {
-		"title": "Derin nefes terapisi",
-		"id": "dDeepBreathingTherapy",
-		"inhale": 4,
-		"hold": 2,
-		"exhale": 4,
-		"wait": 0,
-		"translate": {
-			"fr": "thérapie de respiration profonde",
-			"de": "tiefe Atemtherapie",
-			"es": "terapia de respiración profunda",
-			"pt": "terapia de respiração profunda",
-			"ja": "深呼吸療法",
-			"ko": "심호흡 요법",
-			"en": "Deep breathing therapy"
-		}
-	},
-	"Sleep2": {
-		"title": "Dormir 2",
-		"id": "dSleep2",
-		"inhale": 4,
-		"hold": 4,
-		"exhale": 8,
-		"wait": 4,
-		"translate": {
-			"de": "Schlafen",
-			"pt": "Dormir",
-			"ja": "寝る",
-			"ko": "잠",
-			"en": "To Sleep"
-		}
-	}
-
+    "prana": {
+        "id": "dpranayama",
+        "title": "Pranayama",
+        "inhale": 7,
+        "hold": 4,
+        "exhale": 8,
+        "wait": 4
+    },
+    "ujjayi": {
+        "id": "dujjayi",
+        "title": "Ujjayi",
+        "inhale": 7,
+        "hold": 0,
+        "exhale": 7,
+        "wait": 0
+    },
+    "slow": {
+        "id": "dslow",
+        "title": "Slow Breathing for Asthma",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 3,
+        "wait": 2,
+        "translate": {
+            "es": "Respiración lenta para el asma",
+            "fr": "Respiration lente pour l'asthme",
+            "tr": "Astım İçin Yavaş Nefes Alma",
+            "de": "Langsames Atmen bei Asthma",
+            "ja": "喘息のためのゆっくりとした呼吸",
+            "ko": "천식에 대한 느린 호흡",
+            "pt": "Respiração lenta para asma"
+        }
+    },
+    "lion": {
+        "id": "dlion",
+        "title": "Lion's Breath",
+        "inhale": 4,
+        "hold": 0,
+        "exhale": 7,
+        "wait": 0,
+        "translate": {
+            "es": "Respiración de león",
+            "fr": "Respiration du lion"
+        }
+    },
+    "whm1": {
+        "title": "WHM (Iceman) 1",
+        "id": "dwhm1",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 2,
+        "wait": 0
+    },
+    "whm2": {
+        "title": "WHM (Iceman) 2",
+        "id": "dwhm2",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 2,
+        "wait": 30
+    },
+    "whm3": {
+        "title": "WHM (Iceman) 3",
+        "id": "dwhm3",
+        "inhale": 2,
+        "hold": 15,
+        "exhale": 2,
+        "wait": 2
+    },
+    "coherencecardiaque": {
+        "title": "Cohérence cardiaque ",
+        "id": "dcoherencecardiaque",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 0
+    },
+    "nefesEgzersizi": {
+        "title": "Nefes Egzersizi",
+        "id": "dnefesegzersizi",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 6,
+        "wait": 2,
+        "translate": {
+            "es": "Respiración Nefes",
+            "en": "Nefes Breathing"
+        }
+    },
+    "onemin1": {
+        "title": "One Minute Breathing (10s)",
+        "id": "donemin1",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 0,
+        "translate": {
+            "ko": "1분호흡(10초)"
+        }
+    },
+    "onemin2": {
+        "title": "One Minute Breathing (1m)",
+        "id": "donemin2",
+        "inhale": 30,
+        "hold": 0,
+        "exhale": 30,
+        "wait": 0,
+        "translate": {
+            "ko": "1분호흡(4선정)"
+        }
+    },
+    "shortbox": {
+        "title": "Short Box Breathing",
+        "id": "dshortbox",
+        "inhale": 2,
+        "hold": 2,
+        "exhale": 2,
+        "wait": 2
+    },
+    "b448": {
+        "title": "4·4·8 호흡",
+        "id": "db448",
+        "inhale": 4,
+        "hold": 4,
+        "exhale": 8,
+        "wait": 0
+    },
+    "antiapetite": {
+        "title": "Anti apetite",
+        "id": "dantiapetite",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 4
+    },
+    "karma": {
+        "title": "Karma",
+        "id": "dkarma",
+        "inhale": 8,
+        "hold": 4,
+        "exhale": 4,
+        "wait": 5
+    },
+    "ansiedad": {
+        "title": "Ansiedad",
+        "id": "dansiedad",
+        "inhale": 6,
+        "hold": 4,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "fr": "Anxiété",
+            "de": "Angst",
+            "es": "Ansiedad",
+            "pt": "Ansiedade",
+            "ja": "不安",
+            "ko": "불안",
+            "en": "Anxiety",
+            "tr": "Endişe"
+        }
+    },
+    "urgence": {
+        "title": "Urgence émotion",
+        "id": "durgence",
+        "inhale": 6,
+        "hold": 0,
+        "exhale": 6,
+        "wait": 0
+    },
+    "estres": {
+        "title": "Estrés",
+        "id": "destres",
+        "inhale": 3,
+        "hold": 6,
+        "exhale": 3,
+        "wait": 6,
+        "translate": {
+            "fr": "Stress",
+            "de": "Betonen",
+            "es": "Estrés",
+            "pt": "Estresse",
+            "ja": "ストレス軽減のため",
+            "ko": "스트레스",
+            "en": "Stress",
+            "tr": "Stres"
+        }
+    },
+    "VibroCalm": {
+        "title": "VibroCalm",
+        "id": "dVibroCalm",
+        "inhale": 4,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 1
+    },
+    "Vitalization": {
+        "title": "Revitalization ",
+        "id": "dVitalization",
+        "inhale": 6,
+        "hold": 0,
+        "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "fr": "Redynamisation",
+            "de": "Revitalisierung",
+            "es": "Revitalización",
+            "pt": "Revitalização",
+            "ja": "活性化",
+            "ko": "활성화"
+        }
+    },
+    "DeepBreathingTherapy": {
+        "title": "Derin nefes terapisi",
+        "id": "dDeepBreathingTherapy",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "fr": "thérapie de respiration profonde",
+            "de": "tiefe Atemtherapie",
+            "es": "terapia de respiración profunda",
+            "pt": "terapia de respiração profunda",
+            "ja": "深呼吸療法",
+            "ko": "심호흡 요법",
+            "en": "Deep breathing therapy"
+        }
+    },
+    "Sleep2": {
+        "title": "Dormir 2",
+        "id": "dSleep2",
+        "inhale": 4,
+        "hold": 4,
+        "exhale": 8,
+        "wait": 4,
+        "translate": {
+            "de": "Schlafen",
+            "pt": "Dormir",
+            "ja": "寝る",
+            "ko": "잠",
+            "en": "To Sleep"
+        }
+    },
+    "Olivera": {
+        "title": "Ieder santos de oliveia ",
+        "id": "doliveia",
+        "inhale": 6,
+        "hold": 16,
+        "exhale": 8,
+        "wait": 8
+    },
+    "Danjeon": {
+        "title": "Danjeon breathing 1",
+        "id": "dDanjeon",
+        "inhale": 10,
+        "hold": 0,
+        "exhale": 10,
+        "wait": 0,
+        "translate": {
+            "ko": "단전호흡1"
+        }
+    },
+    "cleanfourelement2": {
+        "title": "Nettoyage des 4 Eléments",
+        "id": "dcleanfourelement2",
+        "inhale": 4,
+        "hold": 16,
+        "exhale": 8,
+        "wait": 0,
+        "translation": {
+            "en": "Cleansing the 4 Elements"
+        }
+    },
+    "Fuegev1": {
+        "title": "Fuegev1-2-3",
+        "id": "dFuegev1",
+        "inhale": 5,
+        "hold": 3,
+        "exhale": 12,
+        "wait": 3
+    },
+    "AQUI": {
+        "title": "AQUI",
+        "id": "u1697858535562",
+        "inhale": 4,
+        "hold": 3,
+        "exhale": 7,
+        "wait": 1
+    },
+    "a2Semana": {
+        "title": "2Semana N. 1",
+        "id": "dtwoSemana",
+        "inhale": 5,
+        "hold": 3,
+        "exhale": 5,
+        "wait": 3
+    },
+    "diaf": {
+        "title": "Diafragmática",
+        "id": "u1698716527026",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 6,
+        "wait": 0,
+        "translation": {
+            "en": "Diaphragmatic"
+        }
+    }
 }
