@@ -268,7 +268,7 @@
         "hold": 16,
         "exhale": 8,
         "wait": 0,
-        "translation": {
+        "translate": {
             "en": "Cleansing the 4 Elements"
         }
     },
@@ -303,8 +303,124 @@
         "hold": 2,
         "exhale": 6,
         "wait": 0,
-        "translation": {
+        "translate": {
             "en": "Diaphragmatic"
+        }
+    },
+    "dPeter": {
+        "title": "Peter",
+        "id": "du1698958716586",
+        "inhale": 5,
+        "hold": 8,
+        "exhale": 5,
+        "wait": 8,
+        "translate": {
+            "en": "Peter",
+            "es": "Pedro",
+            "pt": "Pedro",
+            "fr": "Pierre",
+            "ko": "피터",
+            "jp": "ピーター",
+            "de": "Peter"
+        }
+    },
+    "dalhpim": {
+        "title": "alhpim",
+        "id": "du1699085402971",
+        "inhale": 6,
+        "hold": 15,
+        "exhale": 10,
+        "wait": 0,
+        "translate": {
+            "en": "alhpim",
+            "es": "alhpim",
+            "pt": "alhpim",
+            "fr": "alhpim",
+            "ko": "알피임",
+            "jp": "アルピム",
+            "de": "alhpim"
+        }
+    },
+    "dZihin temizliği iyi geliyor bana": {
+        "title": "Zihin temizliği iyi geliyor bana",
+        "id": "du1699113600950",
+        "inhale": 3,
+        "hold": 0,
+        "exhale": 12,
+        "wait": 0,
+        "translate": {
+            "en": "Mind cleansing",
+            "es": "La limpieza mental",
+            "pt": "A limpeza mental",
+            "fr": "Le nettoyage mental"
+        }
+    },
+    "dRahatlayacaksın": {
+        "title": "Rahatlayacaksın",
+        "id": "du1699113639179",
+        "inhale": 4,
+        "hold": 0,
+        "exhale": 8,
+        "wait": 8,
+        "translate": {
+            "en": "You will relax",
+            "es": "Te relajarás",
+            "pt": "Você vai relaxar",
+            "fr": "Vous allez vous détendre",
+            "ko": "당신은 편안해질 것입니다",
+            "jp": "リラックスできます",
+            "de": "Du wirst dich entspannen"
+        }
+    },
+    "dStres önle": {
+        "title": "Stres önle",
+        "id": "du1699113676402",
+        "inhale": 8,
+        "hold": 0,
+        "exhale": 2,
+        "wait": 0,
+        "translate": {
+            "en": "Prevent stress",
+            "es": "Prevenir el estrés",
+            "pt": "Prevenir o estresse",
+            "fr": "Prévenir le stress",
+            "ko": "스트레스 예방",
+            "jp": "ストレスを防ぐ",
+            "de": "Stress verhindern"
+        }
+    },
+    "dAcamar-se": {
+        "title": "Acamar-se",
+        "id": "du1699283230476",
+        "inhale": 5,
+        "hold": 1,
+        "exhale": 5,
+        "wait": 1,
+        "translate": {
+            "en": "Calm down",
+            "es": "Calma",
+            "pt": "Acalmar-se",
+            "fr": "Calmer",
+            "ko": "진정",
+            "jp": "落ち着く",
+            "de": "Beruhige dich"
+        }
+    },
+    "dRespiración durs": {
+        "title": "Respiración durs",
+        "id": "du1699334052434",
+        "inhale": 7,
+        "hold": 2,
+        "exhale": 5,
+        "wait": 1,
+        "translate": {
+            "en": "Durs breathing",
+            "es": "Respiración durs",
+            "pt": "Respiração durs",
+            "fr": "Respiration durs",
+            "ko": "더스 숨쉬기",
+            "jp": "デュルスの呼吸",
+            "de": "Durs Atmung"
         }
     }
 }
