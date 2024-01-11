@@ -422,5 +422,21 @@
             "jp": "デュルスの呼吸",
             "de": "Durs Atmung"
         }
+    },
+    "drespiration369": {
+        "title": "Respiración 3 6 9",
+        "id": "du1696305645098",
+        "inhale": 3,
+        "hold": 6,
+        "exhale": 9,
+        "wait": 0
+    },
+    "dAnksiyete": {
+        "title": "Anksiyete,panik atak",
+        "id": "du1704265518533",
+        "inhale": 7,
+        "hold": 4,
+        "exhale": 11,
+        "wait": 10
     }
 }
