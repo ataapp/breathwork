@@ -5,7 +5,11 @@
         "inhale": 7,
         "hold": 4,
         "exhale": 8,
-        "wait": 4
+        "wait": 4,
+        "translate": {
+            "ja": "プラナヤマ",
+            "ko": "프라나야마"
+        }
     },
     "ujjayi": {
         "id": "dujjayi",
@@ -41,8 +45,18 @@
         "wait": 0,
         "translate": {
             "es": "Respiración de león",
-            "fr": "Respiration du lion"
+            "fr": "Respiration du lion",
+            "ja": "ライオンの息",
+            "ko": "사자의 숨결"
         }
+    },
+    "dButeyko": {
+        "title": "Buteyko",
+        "id": "dButeyko",
+        "inhale": 4,
+        "hold": 0,
+        "exhale": 9,
+        "wait": 10
     },
     "whm1": {
         "title": "WHM (Iceman) 1",
@@ -320,7 +334,7 @@
             "pt": "Pedro",
             "fr": "Pierre",
             "ko": "피터",
-            "jp": "ピーター",
+            "ja": "ピーター",
             "de": "Peter"
         }
     },
@@ -337,7 +351,7 @@
             "pt": "alhpim",
             "fr": "alhpim",
             "ko": "알피임",
-            "jp": "アルピム",
+            "ja": "アルピム",
             "de": "alhpim"
         }
     },
@@ -368,7 +382,7 @@
             "pt": "Você vai relaxar",
             "fr": "Vous allez vous détendre",
             "ko": "당신은 편안해질 것입니다",
-            "jp": "リラックスできます",
+            "ja": "リラックスできます",
             "de": "Du wirst dich entspannen"
         }
     },
@@ -385,7 +399,7 @@
             "pt": "Prevenir o estresse",
             "fr": "Prévenir le stress",
             "ko": "스트레스 예방",
-            "jp": "ストレスを防ぐ",
+            "ja": "ストレスを防ぐ",
             "de": "Stress verhindern"
         }
     },
@@ -402,7 +416,7 @@
             "pt": "Acalmar-se",
             "fr": "Calmer",
             "ko": "진정",
-            "jp": "落ち着く",
+            "ja": "落ち着く",
             "de": "Beruhige dich"
         }
     },
@@ -419,7 +433,7 @@
             "pt": "Respiração durs",
             "fr": "Respiration durs",
             "ko": "더스 숨쉬기",
-            "jp": "デュルスの呼吸",
+            "ja": "デュルスの呼吸",
             "de": "Durs Atmung"
         }
     },
@@ -438,5 +452,21 @@
         "hold": 4,
         "exhale": 11,
         "wait": 10
+    },
+    "dAnger": {
+        "title": "怒りを鎮める",
+        "id": "dAnger",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 15,
+        "wait": 0
+    },
+    "dPersonal": {
+        "title": "Личное",
+        "id": "dPersonal",
+        "inhale": 3,
+        "hold": 7,
+        "exhale": 4,
+        "wait": 0
     }
 }
