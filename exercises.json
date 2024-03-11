@@ -454,19 +454,98 @@
         "wait": 10
     },
     "dAnger": {
-        "title": "怒りを鎮める",
+        "title": "Calm down anger",
         "id": "dAnger",
         "inhale": 5,
         "hold": 0,
         "exhale": 15,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "ja": "怒りを鎮める"
+        }
     },
     "dPersonal": {
-        "title": "Личное",
+        "title": "Personal Breathing",
         "id": "dPersonal",
         "inhale": 3,
         "hold": 7,
         "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "ru": "Личное"
+        }
+    },
+    "dtoughendure": {
+        "title": "Tough Endurance",
+        "id": "dtoughendurance",
+        "inhale": 6,
+        "hold": 20,
+        "exhale": 10,
+        "wait": 0,
+        "translate": {
+            "tr": "Zor dayanıklılık"
+        }
+    },
+    "dvitality": {
+        "title": "Vitality",
+        "id": "dvitality",
+        "inhale": 6,
+        "hold": 6,
+        "exhale": 6,
+        "wait": 2,
+        "translate": {
+            "ar": "حيوية"
+        }
+    },
+    "ddrangban": {
+        "title": "345 Dr Rangban. Relax",
+        "id": "ddrangban",
+        "inhale": 3,
+        "hold": 4,
+        "exhale": 5,
         "wait": 0
+    },
+    "dexhalationdd": {
+        "title": "Exhalación DyD",
+        "id": "dexhalationdd",
+        "inhale": 12,
+        "hold": 6,
+        "exhale": 8,
+        "wait": 2
+    },
+    "dunderwater": {
+        "title": "under water hockey exercise",
+        "id": "dunderwater",
+        "inhale": 5,
+        "hold": 45,
+        "exhale": 5,
+        "wait": 8
+    },
+    "dKundalini": {
+        "title": "Kundalini pranayama 1",
+        "id": "dKundalini",
+        "inhale": 5,
+        "hold": 5,
+        "exhale": 5,
+        "wait": 0
+    },
+    "dKundalini2": {
+        "title": "Kundalini pranayama 2",
+        "id": "dKundalini2",
+        "inhale": 5,
+        "hold": 45,
+        "exhale": 8,
+        "wait": 0
+    },
+    "ddiving": {
+        "title": "Freediving Training",
+        "id": "u1710107999908",
+        "inhale": 6,
+        "hold": 20,
+        "exhale": 20,
+        "wait": 10,
+        "translate": {
+            "it": "Allenamento apnea"
+        }
     }
 }
