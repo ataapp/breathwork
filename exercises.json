@@ -82,6 +82,39 @@
         "exhale": 2,
         "wait": 2
     },
+    "lowerbp": {
+        "title": "Lower blood pressure",
+        "id": "dlowerbp",
+        "inhale": 6,
+        "hold": 0,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "es": "Presión sanguínea baja",
+            "fr": "Abaisser la tension artérielle",
+            "tr": "Düşük kan basıncı",
+            "de": "Niedriger Blutdruck",
+            "ja": "血圧を下げる",
+            "ko": "혈압을 낮추세요",
+            "pt": "Pressão arterial mais baixa"
+        }
+    },
+    "lowerhr": {
+        "title": "Lower heart rate",
+        "id": "dlowerhr",
+        "inhale": 6,
+        "hold": 0,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "es": "Frecuencia cardíaca más baja",
+            "fr": "Fréquence cardiaque plus faible",
+            "de": "Niedrigere Herzfrequenz",
+            "ja": "心拍数の低下",
+            "ko": "낮은 심박수",
+            "pt": "Menor frequência cardíaca"
+        }
+    },
     "coherencecardiaque": {
         "title": "Cohérence cardiaque ",
         "id": "dcoherencecardiaque",
@@ -547,5 +580,32 @@
         "translate": {
             "it": "Allenamento apnea"
         }
+    },
+    "dlungcleanse": {
+        "title": "Lung cleansing",
+        "id": "dlungcleanse",
+        "inhale": 4,
+        "hold": 6,
+        "exhale": 8,
+        "wait": 10,
+        "translate": {
+            "tr": "Akciğer Temizliği"
+        }
+    },
+    "dfarukfm": {
+        "title": "Faruk_FM tekniği",
+        "id": "dfarukfm",
+        "inhale": 3,
+        "hold": 5,
+        "exhale": 7,
+        "wait": 6
+    },
+    "dcopd": {
+        "title": "COPD",
+        "id": "dcopd",
+        "inhale": 3,
+        "hold": 0,
+        "exhale": 7,
+        "wait": 0
     }
 }
