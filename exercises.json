@@ -102,9 +102,9 @@
     "lowerhr": {
         "title": "Lower heart rate",
         "id": "dlowerhr",
-        "inhale": 6,
+        "inhale": 4,
         "hold": 0,
-        "exhale": 6,
+        "exhale": 7,
         "wait": 0,
         "translate": {
             "es": "Frecuencia cardíaca más baja",
