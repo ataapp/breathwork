@@ -607,5 +607,324 @@
         "hold": 0,
         "exhale": 7,
         "wait": 0
+    },
+    "dCalmu1711322505516": {
+        "title": "Calm",
+        "id": "u1711322505516",
+        "inhale": 3,
+        "hold": 6,
+        "exhale": 3,
+        "wait": 6,
+        "translate": {
+            "it": "Calma"
+        }
+    },
+    "dFreemindu1711322427651": {
+        "title": "Free mind ",
+        "id": "u1711322427651",
+        "inhale": 3,
+        "hold": 0,
+        "exhale": 9,
+        "wait": 0,
+        "translate": {
+            "it": "Mente libera "
+        }
+    },
+    "dHarmonyu1711322357180": {
+        "title": "Harmony ",
+        "id": "u1711322357180",
+        "inhale": 3,
+        "hold": 9,
+        "exhale": 6,
+        "wait": 3,
+        "translate": {
+            "it": "Armonia "
+        }
+    },
+    "dAntiappetiteu1711322227781": {
+        "title": "Anti appetite ",
+        "id": "u1711322227781",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 5,
+        "translate": {
+            "it": "Anti appetito "
+        }
+    },
+    "dInhaleExhaleu1710437701628": {
+        "title": "Inhale Exhale",
+        "id": "u1710437701628",
+        "inhale": 3,
+        "hold": 1,
+        "exhale": 3,
+        "wait": 0,
+        "translate": {
+            "tr": "Nefes Al Nefes Ver"
+        }
+    },
+    "dEliminateslustu1711371214362": {
+        "title": "Eliminates lust",
+        "id": "u1711371214362",
+        "inhale": 4,
+        "hold": 8,
+        "exhale": 8,
+        "wait": 0,
+        "translate": {
+            "id": "Menghilangkan hawa napsu"
+        }
+    },
+    "doxygenationu1711763274160": {
+        "title": "oxygenation",
+        "id": "u1711763274160",
+        "inhale": 10,
+        "hold": 10,
+        "exhale": 10,
+        "wait": 10,
+        "translate": {
+            "tr": "Oksijenlenme"
+        }
+    },
+    "dPrimarybreathholding4-35-4-2u1712296930258": {
+        "title": "Primary breath holding 4-35-4-2",
+        "id": "u1712296930258",
+        "inhale": 4,
+        "hold": 35,
+        "exhale": 4,
+        "wait": 2,
+        "translate": {
+            "zh": "初级憋气4-35-4-2"
+        }
+    },
+    "dGodspeedu1713213382833": {
+        "title": "Godspeed",
+        "id": "u1713213382833",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 2,
+        "wait": 0,
+        "translate": {
+            "ru": "Godspeed"
+        }
+    },
+    "dRelaxu1713395174729": {
+        "title": "Relax",
+        "id": "u1713395174729",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 4,
+        "wait": 2,
+        "translate": {
+            "tr": "Rahatlamak"
+        }
+    },
+    "dAlternateu1713310181071": {
+        "title": "Alternate ",
+        "id": "u1713310181071",
+        "inhale": 4,
+        "hold": 1,
+        "exhale": 5,
+        "wait": 1,
+        "translate": {
+            "fr": "Alternée "
+        }
+    },
+    "dBalanceu1713292273968": {
+        "title": "Balance",
+        "id": "u1713292273968",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "es": "Equilibrio"
+        }
+    },
+    "dPranayamabreathingu1710527564339": {
+        "title": "Pranayama breathing ",
+        "id": "u1710527564339",
+        "inhale": 7,
+        "hold": 1,
+        "exhale": 7,
+        "wait": 1,
+        "translate": {
+            "ar": "تنفس البراناياما "
+        }
+    },
+    "dAzhenu1713527175703": {
+        "title": "Azhen",
+        "id": "u1713527175703",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "zh": "阿珍"
+        }
+    },
+    "dOne-sidedu1710669462103": {
+        "title": "One-sided ",
+        "id": "u1710669462103",
+        "inhale": 3,
+        "hold": 3,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "de": "Einseitig "
+        }
+    },
+    "dSleepu1710850158457": {
+        "title": "Sleep",
+        "id": "u1710850158457",
+        "inhale": 4,
+        "hold": 4,
+        "exhale": 6,
+        "wait": 2,
+        "translate": {
+            "de": "Schlaf"
+        }
+    },
+    "dInnerpeaceu1711179354605": {
+        "title": "Inner peace",
+        "id": "u1711179354605",
+        "inhale": 5,
+        "hold": 2,
+        "exhale": 7,
+        "wait": 8,
+        "translate": {
+            "de": "Innere Ruhe"
+        }
+    },
+    "dconsciousnessu1711692380213": {
+        "title": "consciousness ",
+        "id": "u1711692380213",
+        "inhale": 4,
+        "hold": 5,
+        "exhale": 8,
+        "wait": 4,
+        "translate": {
+            "de": "Bewusstsein "
+        }
+    },
+    "dpoweru1711780500964": {
+        "title": "power",
+        "id": "u1711780500964",
+        "inhale": 3,
+        "hold": 4,
+        "exhale": 8,
+        "wait": 0,
+        "translate": {
+            "de": "Power"
+        }
+    },
+    "denergyu1711867522410": {
+        "title": "energy ",
+        "id": "u1711867522410",
+        "inhale": 6,
+        "hold": 5,
+        "exhale": 8,
+        "wait": 9,
+        "translate": {
+            "de": "Energie "
+        }
+    },
+    "dgratitudeu1712470398834": {
+        "title": "gratitude ",
+        "id": "u1712470398834",
+        "inhale": 5,
+        "hold": 3,
+        "exhale": 7,
+        "wait": 5,
+        "translate": {
+            "de": "Dankbarkeit "
+        }
+    },
+    "dEnlightenmentu1712644578568": {
+        "title": "Enlightenment ",
+        "id": "u1712644578568",
+        "inhale": 5,
+        "hold": 4,
+        "exhale": 5,
+        "wait": 4,
+        "translate": {
+            "de": "Erleuchtung "
+        }
+    },
+    "dKundaliniu1713071451205": {
+        "title": "Kundalini ",
+        "id": "u1713071451205",
+        "inhale": 7,
+        "hold": 4,
+        "exhale": 8,
+        "wait": 12,
+        "translate": {
+            "de": "Kundalini "
+        }
+    },
+    "dZahideu1708592615669": {
+        "title": "Zahide",
+        "id": "u1708592615669",
+        "inhale": 4,
+        "hold": 10,
+        "exhale": 4,
+        "wait": 4,
+        "translate": {
+            "tr": "Zahide"
+        }
+    },
+    "dButeyko2u1714116105914": {
+        "title": "Buteyko 2",
+        "id": "u1714116105914",
+        "inhale": 2,
+        "hold": 4,
+        "exhale": 5,
+        "wait": 0,
+        "translate": {
+            "ru": "Бутейко 2"
+        }
+    },
+    "d1-4-2TonyRu1713625506699": {
+        "title": "1-4-2 Tony R",
+        "id": "u1713625506699",
+        "inhale": 4,
+        "hold": 16,
+        "exhale": 8,
+        "wait": 0,
+        "translate": {
+            "es": "1-4-2 Tony R"
+        }
+    },
+    "dPursedLipsExhalationu1713163029777": {
+        "title": "Pursed Lips Exhalation",
+        "id": "u1713163029777",
+        "inhale": 2,
+        "hold": 0,
+        "exhale": 4,
+        "wait": 0,
+        "translate": {
+            "zh": "噘唇呼氣法"
+        }
+    },
+    "d3-3-6breathingu1715235630256": {
+        "title": "3-3-6 breathing ",
+        "id": "u1715235630256",
+        "inhale": 3,
+        "hold": 3,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "sv": "3-3-6 andningen "
+        }
+    },
+    "dIndividualu1713923443776": {
+        "title": "Individual",
+        "id": "u1713923443776",
+        "inhale": 18,
+        "hold": 0,
+        "exhale": 24,
+        "wait": 15,
+        "translate": {
+            "ru": "Идивидуальный"
+        }
     }
 }
