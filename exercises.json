@@ -47,7 +47,11 @@
             "es": "Respiración de león",
             "fr": "Respiration du lion",
             "ja": "ライオンの息",
-            "ko": "사자의 숨결"
+            "ko": "사자의 숨결",
+            "pt": "Respiração de leão",
+            "tr": "Aslan Nefesi",
+            "de": "Löwenatem",
+            "it": "Respiro del leone"
         }
     },
     "dButeyko": {
@@ -96,7 +100,8 @@
             "de": "Niedriger Blutdruck",
             "ja": "血圧を下げる",
             "ko": "혈압을 낮추세요",
-            "pt": "Pressão arterial mais baixa"
+            "pt": "Pressão arterial mais baixa",
+            "it": "Pressione sanguigna bassa"
         }
     },
     "lowerhr": {
@@ -112,7 +117,8 @@
             "de": "Niedrigere Herzfrequenz",
             "ja": "心拍数の低下",
             "ko": "낮은 심박수",
-            "pt": "Menor frequência cardíaca"
+            "pt": "Menor frequência cardíaca",
+            "it": "Frequenza cardiaca più bassa"
         }
     },
     "coherencecardiaque": {
@@ -124,7 +130,7 @@
         "wait": 0
     },
     "nefesEgzersizi": {
-        "title": "Nefes Egzersizi",
+        "title": "Nefes Breathing",
         "id": "dnefesegzersizi",
         "inhale": 4,
         "hold": 2,
@@ -132,7 +138,7 @@
         "wait": 2,
         "translate": {
             "es": "Respiración Nefes",
-            "en": "Nefes Breathing"
+            "tr": "Nefes Egzersizi"
         }
     },
     "onemin1": {
@@ -143,7 +149,14 @@
         "exhale": 5,
         "wait": 0,
         "translate": {
-            "ko": "1분호흡(10초)"
+            "ko": "1분호흡(10초)",
+            "es": "Respiración de un minuto (10s)",
+            "fr": "Respiration d'une minute (10s)",
+            "tr": "Bir Dakikalık Nefes (10s)",
+            "de": "Einminütiges Atmen (10s)",
+            "ja": "1分間の呼吸（10秒）",
+            "pt": "Respiração de um minuto (10s)",
+            "it": "Respiro di un minuto (10s)"
         }
     },
     "onemin2": {
@@ -154,7 +167,14 @@
         "exhale": 30,
         "wait": 0,
         "translate": {
-            "ko": "1분호흡(4선정)"
+            "ko": "1분호흡(4선정)",
+            "es": "Respiración de un minuto (1m)",
+            "fr": "Respiration d'une minute (1m)",
+            "tr": "Bir Dakikalık Nefes (1m)",
+            "de": "Einminütiges Atmen (1m)",
+            "ja": "1分間の呼吸（1分）",
+            "pt": "Respiração de um minuto (1m)",
+            "it": "Respiro di un minuto (1m)"
         }
     },
     "shortbox": {
@@ -163,15 +183,35 @@
         "inhale": 2,
         "hold": 2,
         "exhale": 2,
-        "wait": 2
+        "wait": 2,
+        "translate": {
+            "es": "Respiración de caja corta",
+            "fr": "Respiration de boîte courte",
+            "tr": "Kısa Kutu Nefesi",
+            "de": "Kurze Boxatmung",
+            "ja": "ショートボックス呼吸",
+            "ko": "짧은 상자 호흡",
+            "pt": "Respiração de caixa curta",
+            "it": "Respiro di scatola corto"
+        }
     },
     "b448": {
-        "title": "4·4·8 호흡",
+        "title": "4·4·8 Breath",
         "id": "db448",
         "inhale": 4,
         "hold": 4,
         "exhale": 8,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "es": "Respiración 4·4·8",
+            "fr": "Respiration 4·4·8",
+            "tr": "4·4·8 Nefes",
+            "de": "4·4·8 Atem",
+            "ja": "4·4·8呼吸",
+            "ko": "4·4·8 호흡",
+            "pt": "Respiração 4·4·8",
+            "it": "Respiro 4·4·8"
+        }
     },
     "antiapetite": {
         "title": "Anti apetite",
@@ -179,7 +219,17 @@
         "inhale": 5,
         "hold": 0,
         "exhale": 5,
-        "wait": 4
+        "wait": 4,
+        "translate": {
+            "es": "Anti apetito",
+            "fr": "Anti-appétit",
+            "tr": "Anti iştah",
+            "de": "Anti Appetit",
+            "ja": "食欲抑制",
+            "ko": "식욕 억제",
+            "pt": "Anti apetite",
+            "it": "Anti appetito"
+        }
     },
     "karma": {
         "title": "Karma",
@@ -187,7 +237,17 @@
         "inhale": 8,
         "hold": 4,
         "exhale": 4,
-        "wait": 5
+        "wait": 5,
+        "translate": {
+            "es": "Karma",
+            "fr": "Karma",
+            "tr": "Karma",
+            "de": "Karma",
+            "ja": "カルマ",
+            "ko": "카르마",
+            "pt": "Karma",
+            "it": "Karma"
+        }
     },
     "ansiedad": {
         "title": "Ansiedad",
@@ -213,7 +273,17 @@
         "inhale": 6,
         "hold": 0,
         "exhale": 6,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "fr": "Urgence émotionnelle",
+            "de": "Emotionale Dringlichkeit",
+            "es": "Emergencia emocional",
+            "pt": "Urgência emocional",
+            "ja": "感情的緊急事態",
+            "ko": "감정적 긴급",
+            "en": "Emotional urgency",
+            "tr": "Duygusal aciliyet"
+        }
     },
     "estres": {
         "title": "Estrés",
@@ -289,14 +359,6 @@
             "en": "To Sleep"
         }
     },
-    "Olivera": {
-        "title": "Ieder santos de oliveia ",
-        "id": "doliveia",
-        "inhale": 6,
-        "hold": 16,
-        "exhale": 8,
-        "wait": 8
-    },
     "Danjeon": {
         "title": "Danjeon breathing 1",
         "id": "dDanjeon",
@@ -305,7 +367,14 @@
         "exhale": 10,
         "wait": 0,
         "translate": {
-            "ko": "단전호흡1"
+            "ko": "단전호흡1",
+            "es": "Respiración Danjeon 1",
+            "fr": "Respiration Danjeon 1",
+            "tr": "Danjeon nefesi 1",
+            "de": "Danjeon Atmung 1",
+            "ja": "ダンジョン呼吸1",
+            "pt": "Respiração Danjeon 1",
+            "it": "Respiro Danjeon 1"
         }
     },
     "cleanfourelement2": {
@@ -316,7 +385,15 @@
         "exhale": 8,
         "wait": 0,
         "translate": {
-            "en": "Cleansing the 4 Elements"
+            "en": "Cleansing the 4 Elements",
+            "es": "Limpieza de los 4 Elementos",
+            "fr": "Nettoyage des 4 Éléments",
+            "tr": "4 Element Temizleme",
+            "de": "Reinigung der 4 Elemente",
+            "ja": "4つの要素の浄化",
+            "ko": "4 요소 청소",
+            "pt": "Limpeza dos 4 Elementos",
+            "it": "Pulizia dei 4 Elementi"
         }
     },
     "Fuegev1": {
@@ -344,14 +421,19 @@
         "wait": 3
     },
     "diaf": {
-        "title": "Diafragmática",
+        "title": "Diaphragmatic",
         "id": "u1698716527026",
         "inhale": 4,
         "hold": 2,
         "exhale": 6,
         "wait": 0,
         "translate": {
-            "en": "Diaphragmatic"
+            "es": "Diafragmática",
+            "pt": "Diafragmática",
+            "fr": "Diaphragmatique",
+            "ko": "횡격막",
+            "ja": "横隔膜",
+            "de": "Zwerchfell"
         }
     },
     "dPeter": {
@@ -389,7 +471,7 @@
         }
     },
     "dZihin temizliği iyi geliyor bana": {
-        "title": "Zihin temizliği iyi geliyor bana",
+        "title": "Mind cleansing",
         "id": "du1699113600950",
         "inhale": 3,
         "hold": 0,
@@ -399,35 +481,39 @@
             "en": "Mind cleansing",
             "es": "La limpieza mental",
             "pt": "A limpeza mental",
-            "fr": "Le nettoyage mental"
+            "fr": "Le nettoyage mental",
+            "ko": "마음의 정화",
+            "ja": "心の浄化",
+            "de": "Geistige Reinigung",
+            "tr": "Zihin temizliği iyi geliyor bana"
         }
     },
     "dRahatlayacaksın": {
-        "title": "Rahatlayacaksın",
+        "title": "You will relax",
         "id": "du1699113639179",
         "inhale": 4,
         "hold": 0,
         "exhale": 8,
         "wait": 8,
         "translate": {
-            "en": "You will relax",
             "es": "Te relajarás",
             "pt": "Você vai relaxar",
             "fr": "Vous allez vous détendre",
             "ko": "당신은 편안해질 것입니다",
             "ja": "リラックスできます",
-            "de": "Du wirst dich entspannen"
+            "de": "Du wirst dich entspannen",
+            "tr": "Rahatlayacaksın"
         }
     },
     "dStres önle": {
-        "title": "Stres önle",
+        "title": "Prevent stress",
         "id": "du1699113676402",
         "inhale": 8,
         "hold": 0,
         "exhale": 2,
         "wait": 0,
         "translate": {
-            "en": "Prevent stress",
+            "tr": "Stres önle",
             "es": "Prevenir el estrés",
             "pt": "Prevenir o estresse",
             "fr": "Prévenir le stress",
@@ -479,12 +565,21 @@
         "wait": 0
     },
     "dAnksiyete": {
-        "title": "Anksiyete,panik atak",
+        "title": "Anxiety, Panic Attack",
         "id": "du1704265518533",
         "inhale": 7,
         "hold": 4,
         "exhale": 11,
-        "wait": 10
+        "wait": 10,
+        "translate": {
+            "es": "Ansiedad, Ataque de Pánico",
+            "pt": "Ansiedade, Ataque de Pânico",
+            "fr": "Anxiété, Attaque de Panique",
+            "ko": "불안, 패닉 공격",
+            "ja": "不安、パニック発作",
+            "de": "Angst, Panikattacke",
+            "tr": "Anksiyete,panik atak"
+        }
     },
     "dAnger": {
         "title": "Calm down anger",
@@ -494,7 +589,13 @@
         "exhale": 15,
         "wait": 0,
         "translate": {
-            "ja": "怒りを鎮める"
+            "ja": "怒りを鎮める",
+            "ko": "화를 가라앉히다",
+            "es": "Calmar la ira",
+            "pt": "Acalmar a raiva",
+            "fr": "Calmer la colère",
+            "de": "Beruhige den Zorn",
+            "tr": "Öfkeyi yatıştır"
         }
     },
     "dPersonal": {
@@ -516,7 +617,13 @@
         "exhale": 10,
         "wait": 0,
         "translate": {
-            "tr": "Zor dayanıklılık"
+            "tr": "Zor dayanıklılık",
+            "es": "Resistencia dura",
+            "pt": "Resistência dura",
+            "fr": "Endurance difficile",
+            "ko": "강인한 내구성",
+            "ja": "タフな耐久力",
+            "de": "Harte Ausdauer"
         }
     },
     "dvitality": {
@@ -578,7 +685,14 @@
         "exhale": 20,
         "wait": 10,
         "translate": {
-            "it": "Allenamento apnea"
+            "it": "Allenamento apnea",
+            "es": "Entrenamiento de apnea",
+            "fr": "Entraînement à l'apnée",
+            "tr": "Serbest dalış eğitimi",
+            "de": "Apnoe-Training",
+            "ja": "フリーダイビングトレーニング",
+            "ko": "프리 다이빙 훈련",
+            "pt": "Treinamento de mergulho livre"
         }
     },
     "dlungcleanse": {
@@ -589,7 +703,13 @@
         "exhale": 8,
         "wait": 10,
         "translate": {
-            "tr": "Akciğer Temizliği"
+            "tr": "Akciğer Temizliği",
+            "es": "Limpieza de pulmones",
+            "pt": "Limpeza dos pulmões",
+            "fr": "Nettoyage des poumons",
+            "ko": "폐 청소",
+            "ja": "肺の浄化",
+            "de": "Lungenreinigung"
         }
     },
     "dfarukfm": {
@@ -649,7 +769,14 @@
         "exhale": 5,
         "wait": 5,
         "translate": {
-            "it": "Anti appetito "
+            "it": "Anti appetito ",
+            "es": "Anti apetito ",
+            "fr": "Anti appétit ",
+            "tr": "Anti iştah ",
+            "de": "Anti Appetit ",
+            "ja": "食欲抑制 ",
+            "ko": "식욕 억제 ",
+            "pt": "Anti apetite "
         }
     },
     "dInhaleExhaleu1710437701628": {
@@ -671,7 +798,14 @@
         "exhale": 8,
         "wait": 0,
         "translate": {
-            "id": "Menghilangkan hawa napsu"
+            "id": "Menghilangkan hawa napsu",
+            "es": "Elimina la lujuria",
+            "fr": "Élimine la luxure",
+            "tr": "Hırsı ortadan kaldırır",
+            "de": "Beseitigt die Lust",
+            "ja": "欲望を排除する",
+            "ko": "욕망을 제거합니다",
+            "pt": "Elimina a luxúria"
         }
     },
     "doxygenationu1711763274160": {
@@ -926,5 +1060,56 @@
         "translate": {
             "ru": "Идивидуальный"
         }
+    },
+    "dNeutralBreathingExerciseu1715442741497": {
+        "title": "Neutral Breathing Exercise",
+        "id": "u1715442741497",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 8,
+        "wait": 2,
+        "translate": {
+            "tr": "Nötr Nefes Egzersizi"
+        }
+    },
+    "dAgainstChronicStressu1716149013137": {
+        "title": "Against Chronic Stress",
+        "id": "u1716149013137",
+        "inhale": 3,
+        "hold": 6,
+        "exhale": 5,
+        "wait": 0,
+        "translate": {
+            "tr": "Kronik Strese Karşı"
+        }
+    },
+    "dImprovelungsu1717025084495": {
+        "title": "Improve lungs",
+        "id": "u1717025084495",
+        "inhale": 4,
+        "hold": 8,
+        "exhale": 7,
+        "wait": 0,
+        "translate": {
+            "tr": "Ciğerleri geliştir"
+        }
+    },
+    "dBestchilleveru1718152725034": {
+        "title": "Best chill ever",
+        "id": "u1718152725034",
+        "inhale": 4,
+        "hold": 10,
+        "exhale": 4,
+        "wait": 2,
+        "lang": "en"
+    },
+    "dTrainlungsEXTREMEu1718216213943": {
+        "title": "Train lungs EXTREME",
+        "id": "u1718216213943",
+        "inhale": 8,
+        "hold": 30,
+        "exhale": 9,
+        "wait": 15,
+        "lang": "en"
     }
 }
