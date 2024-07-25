@@ -33,7 +33,11 @@
             "de": "Langsames Atmen bei Asthma",
             "ja": "喘息のためのゆっくりとした呼吸",
             "ko": "천식에 대한 느린 호흡",
-            "pt": "Respiração lenta para asma"
+            "pt": "Respiração lenta para asma",
+            "nl": "Langzaam ademen voor astma",
+            "it": "Respirazione lenta per l'asma",
+            "ar": "التنفس البطيء للربو",
+            "ru": "Медленное дыхание для астмы"
         }
     },
     "lion": {
@@ -51,7 +55,10 @@
             "pt": "Respiração de leão",
             "tr": "Aslan Nefesi",
             "de": "Löwenatem",
-            "it": "Respiro del leone"
+            "it": "Respiro del leone",
+            "nl": "Leeuwenadem",
+            "ru": "Дыхание льва",
+            "ar": "نفس الأسد"
         }
     },
     "dButeyko": {
@@ -63,7 +70,7 @@
         "wait": 10
     },
     "whm1": {
-        "title": "WHM (Iceman) 1",
+        "title": "WHM 1",
         "id": "dwhm1",
         "inhale": 2,
         "hold": 0,
@@ -71,7 +78,7 @@
         "wait": 0
     },
     "whm2": {
-        "title": "WHM (Iceman) 2",
+        "title": "WHM 2",
         "id": "dwhm2",
         "inhale": 2,
         "hold": 0,
@@ -79,7 +86,7 @@
         "wait": 30
     },
     "whm3": {
-        "title": "WHM (Iceman) 3",
+        "title": "WHM 3",
         "id": "dwhm3",
         "inhale": 2,
         "hold": 15,
@@ -101,7 +108,10 @@
             "ja": "血圧を下げる",
             "ko": "혈압을 낮추세요",
             "pt": "Pressão arterial mais baixa",
-            "it": "Pressione sanguigna bassa"
+            "it": "Pressione sanguigna bassa",
+            "nl": "Lagere bloeddruk",
+            "ru": "Понижение давления",
+            "ar": "خفض ضغط الدم"
         }
     },
     "lowerhr": {
@@ -118,7 +128,27 @@
             "ja": "心拍数の低下",
             "ko": "낮은 심박수",
             "pt": "Menor frequência cardíaca",
-            "it": "Frequenza cardiaca più bassa"
+            "it": "Frequenza cardiaca più bassa",
+            "nl": "Lagere hartslag",
+            "ru": "Снижение частоты сердечных сокращений",
+            "ar": "خفض معدل ضربات القلب"
+        }
+    },
+    "dAnger": {
+        "title": "Calm down anger",
+        "id": "dAnger",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 15,
+        "wait": 0,
+        "translate": {
+            "ja": "怒りを鎮める",
+            "ko": "화를 가라앉히다",
+            "es": "Calmar la ira",
+            "pt": "Acalmar a raiva",
+            "fr": "Calmer la colère",
+            "de": "Beruhige den Zorn",
+            "tr": "Öfkeyi yatıştır"
         }
     },
     "coherencecardiaque": {
@@ -127,7 +157,38 @@
         "inhale": 5,
         "hold": 0,
         "exhale": 5,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "fr": "Cohérence cardiaque",
+            "de": "Herzratenvariabilität",
+            "es": "Coherencia cardíaca",
+            "pt": "Coerência cardíaca",
+            "ja": "心拍変動",
+            "ko": "심박변동",
+            "it": "Coerenza cardiaca",
+            "nl": "Hartcoherentie"
+        }
+    },
+    "antiapetite": {
+        "title": "Anti apetite",
+        "id": "dantiapetite",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 4,
+        "translate": {
+            "es": "Anti apetito",
+            "fr": "Anti-appétit",
+            "tr": "Anti iştah",
+            "de": "Anti Appetit",
+            "ja": "食欲抑制",
+            "ko": "식욕 억제",
+            "pt": "Anti apetite",
+            "it": "Anti appetito",
+            "nl": "Anti eetlust",
+            "ru": "Антиаппетит",
+            "ar": "مضاد للشهية"
+        }
     },
     "nefesEgzersizi": {
         "title": "Nefes Breathing",
@@ -156,7 +217,8 @@
             "de": "Einminütiges Atmen (10s)",
             "ja": "1分間の呼吸（10秒）",
             "pt": "Respiração de um minuto (10s)",
-            "it": "Respiro di un minuto (10s)"
+            "it": "Respiro di un minuto (10s)",
+            "nl": "Eén minuut ademhaling (10s)"
         }
     },
     "onemin2": {
@@ -174,7 +236,8 @@
             "de": "Einminütiges Atmen (1m)",
             "ja": "1分間の呼吸（1分）",
             "pt": "Respiração de um minuto (1m)",
-            "it": "Respiro di un minuto (1m)"
+            "it": "Respiro di un minuto (1m)",
+            "nl": "Eén minuut ademhaling (1m)"
         }
     },
     "shortbox": {
@@ -192,7 +255,8 @@
             "ja": "ショートボックス呼吸",
             "ko": "짧은 상자 호흡",
             "pt": "Respiração de caixa curta",
-            "it": "Respiro di scatola corto"
+            "it": "Respiro di scatola corto",
+            "nl": "Korte boxademhaling"
         }
     },
     "b448": {
@@ -211,24 +275,6 @@
             "ko": "4·4·8 호흡",
             "pt": "Respiração 4·4·8",
             "it": "Respiro 4·4·8"
-        }
-    },
-    "antiapetite": {
-        "title": "Anti apetite",
-        "id": "dantiapetite",
-        "inhale": 5,
-        "hold": 0,
-        "exhale": 5,
-        "wait": 4,
-        "translate": {
-            "es": "Anti apetito",
-            "fr": "Anti-appétit",
-            "tr": "Anti iştah",
-            "de": "Anti Appetit",
-            "ja": "食欲抑制",
-            "ko": "식욕 억제",
-            "pt": "Anti apetite",
-            "it": "Anti appetito"
         }
     },
     "karma": {
@@ -264,7 +310,8 @@
             "ja": "不安",
             "ko": "불안",
             "en": "Anxiety",
-            "tr": "Endişe"
+            "tr": "Endişe",
+            "it": "Ansia"
         }
     },
     "urgence": {
@@ -282,7 +329,9 @@
             "ja": "感情的緊急事態",
             "ko": "감정적 긴급",
             "en": "Emotional urgency",
-            "tr": "Duygusal aciliyet"
+            "tr": "Duygusal aciliyet",
+            "it": "Urgenza emotiva",
+            "nl": "Emotionele urgentie"
         }
     },
     "estres": {
@@ -300,7 +349,9 @@
             "ja": "ストレス軽減のため",
             "ko": "스트레스",
             "en": "Stress",
-            "tr": "Stres"
+            "tr": "Stres",
+            "it": "Stress",
+            "nl": "Stress"
         }
     },
     "VibroCalm": {
@@ -328,7 +379,7 @@
         }
     },
     "DeepBreathingTherapy": {
-        "title": "Derin nefes terapisi",
+        "title": "Deep breathing therapy",
         "id": "dDeepBreathingTherapy",
         "inhale": 4,
         "hold": 2,
@@ -341,11 +392,13 @@
             "pt": "terapia de respiração profunda",
             "ja": "深呼吸療法",
             "ko": "심호흡 요법",
-            "en": "Deep breathing therapy"
+            "tr": "Derin nefes terapisi",
+            "it": "terapia di respirazione profonda",
+            "nl": "diepe ademhalingstherapie"
         }
     },
     "Sleep2": {
-        "title": "Dormir 2",
+        "title": "To sleep",
         "id": "dSleep2",
         "inhale": 4,
         "hold": 4,
@@ -356,7 +409,14 @@
             "pt": "Dormir",
             "ja": "寝る",
             "ko": "잠",
-            "en": "To Sleep"
+            "en": "To Sleep",
+            "tr": "Uyku",
+            "es": "Dormir",
+            "fr": "Dormir",
+            "it": "Dormire",
+            "nl": "Slapen",
+            "ru": "Спать",
+            "ar": "للنوم"
         }
     },
     "Danjeon": {
@@ -485,7 +545,11 @@
             "ko": "마음의 정화",
             "ja": "心の浄化",
             "de": "Geistige Reinigung",
-            "tr": "Zihin temizliği iyi geliyor bana"
+            "tr": "Zihin temizliği iyi geliyor bana",
+            "it": "Pulizia della mente",
+            "nl": "Geestelijke reiniging",
+            "ru": "Очищение ума",
+            "ar": "تنظيف العقل"
         }
     },
     "dRahatlayacaksın": {
@@ -502,7 +566,11 @@
             "ko": "당신은 편안해질 것입니다",
             "ja": "リラックスできます",
             "de": "Du wirst dich entspannen",
-            "tr": "Rahatlayacaksın"
+            "tr": "Rahatlayacaksın",
+            "it": "Ti rilasserai",
+            "nl": "Je zult ontspannen",
+            "ru": "Ты расслабишься",
+            "ar": "ستسترخي"
         }
     },
     "dStres önle": {
@@ -519,7 +587,11 @@
             "fr": "Prévenir le stress",
             "ko": "스트레스 예방",
             "ja": "ストレスを防ぐ",
-            "de": "Stress verhindern"
+            "de": "Stress verhindern",
+            "it": "Prevenire lo stress",
+            "nl": "Voorkom stress",
+            "ru": "Предотвратить стресс",
+            "ar": "منع الإجهاد"
         }
     },
     "dAcamar-se": {
@@ -536,7 +608,12 @@
             "fr": "Calmer",
             "ko": "진정",
             "ja": "落ち着く",
-            "de": "Beruhige dich"
+            "de": "Beruhige dich",
+            "tr": "Sakinleş",
+            "it": "Calmati",
+            "nl": "Kalmeer",
+            "ru": "Успокойся",
+            "ar": "هدأ"
         }
     },
     "dRespiración durs": {
@@ -579,23 +656,6 @@
             "ja": "不安、パニック発作",
             "de": "Angst, Panikattacke",
             "tr": "Anksiyete,panik atak"
-        }
-    },
-    "dAnger": {
-        "title": "Calm down anger",
-        "id": "dAnger",
-        "inhale": 5,
-        "hold": 0,
-        "exhale": 15,
-        "wait": 0,
-        "translate": {
-            "ja": "怒りを鎮める",
-            "ko": "화를 가라앉히다",
-            "es": "Calmar la ira",
-            "pt": "Acalmar a raiva",
-            "fr": "Calmer la colère",
-            "de": "Beruhige den Zorn",
-            "tr": "Öfkeyi yatıştır"
         }
     },
     "dPersonal": {
@@ -776,7 +836,10 @@
             "de": "Anti Appetit ",
             "ja": "食欲抑制 ",
             "ko": "식욕 억제 ",
-            "pt": "Anti apetite "
+            "pt": "Anti apetite ",
+            "nl": "Anti eetlust ",
+            "ru": "Антиаппетит ",
+            "ar": "مضاد للشهية "
         }
     },
     "dInhaleExhaleu1710437701628": {
@@ -1080,7 +1143,16 @@
         "exhale": 5,
         "wait": 0,
         "translate": {
-            "tr": "Kronik Strese Karşı"
+            "tr": "Kronik Strese Karşı",
+            "es": "Contra el estrés crónico",
+            "fr": "Contre le stress chronique",
+            "de": "Gegen chronischen Stress",
+            "ja": "慢性ストレスに対抗する",
+            "ko": "만성 스트레스에 대항",
+            "pt": "Contra o estresse crônico",
+            "nl": "Tegen chronische stress",
+            "ru": "Против хронического стресса",
+            "ar": "ضد الإجهاد المزمن"
         }
     },
     "dImprovelungsu1717025084495": {
@@ -1091,7 +1163,16 @@
         "exhale": 7,
         "wait": 0,
         "translate": {
-            "tr": "Ciğerleri geliştir"
+            "tr": "Ciğerleri geliştir",
+            "es": "Mejorar los pulmones",
+            "fr": "Améliorer les poumons",
+            "de": "Lungen verbessern",
+            "ja": "肺を改善する",
+            "ko": "폐 기능 향상",
+            "pt": "Melhorar os pulmões",
+            "nl": "Longen verbeteren",
+            "ru": "Улучшить легкие",
+            "ar": "تحسين الرئتين"
         }
     },
     "dBestchilleveru1718152725034": {
@@ -1111,5 +1192,68 @@
         "exhale": 9,
         "wait": 15,
         "lang": "en"
+    },
+    "dBreathingtechniqueforsleepingu1719755680692": {
+        "title": "Breathing technique for sleeping",
+        "id": "u1719755680692",
+        "inhale": 4,
+        "hold": 3,
+        "exhale": 7,
+        "wait": 3,
+        "translate": {
+            "es": "Tecnica de respiracion para Dormir",
+            "fr": "Technique de respiration pour dormir",
+            "de": "Atemtechnik zum Schlafen",
+            "pt": "Técnica de respiração para dormir",
+            "ja": "睡眠のための呼吸法",
+            "ko": "수면을 위한 호흡법",
+            "tr": "Uyku için nefes tekniği",
+            "it": "Tecnica di respirazione per dormire",
+            "nl": "Ademhalingstechniek voor slapen",
+            "ru": "Дыхательная техника для сна",
+            "ar": "تقنية التنفس للنوم"
+        }
+    },
+    "dtriangularbreathingu1719691728941": {
+        "title": "triangular breathing",
+        "id": "u1719691728941",
+        "inhale": 5,
+        "hold": 0,
+        "exhale": 5,
+        "wait": 5,
+        "translate": {
+            "es": "respiración triangular",
+            "fr": "respiration triangulaire",
+            "de": "dreieckiges Atmen",
+            "pt": "respiração triangular",
+            "ja": "三角形の呼吸",
+            "ko": "삼각형 호흡",
+            "tr": "üçgen nefes",
+            "it": "respirazione triangolare",
+            "nl": "driehoekige ademhaling",
+            "ru": "треугольное дыхание",
+            "ar": "التنفس الثلاثي"
+        }
+    },
+    "dintense": {
+        "title": "Intense",
+        "id": "dintense",
+        "inhale": 5,
+        "hold": 30,
+        "exhale": 5,
+        "wait": 20,
+        "translate": {
+            "es": "Intenso",
+            "fr": "Intense",
+            "de": "Intensiv",
+            "pt": "Intenso",
+            "ja": "激しい",
+            "ko": "강렬한",
+            "tr": "Yoğun",
+            "it": "Intenso",
+            "nl": "Intens",
+            "ru": "Интенсивный",
+            "ar": "كثيف"
+        }
     }
 }
