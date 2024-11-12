@@ -93,6 +93,27 @@
         "exhale": 2,
         "wait": 2
     },
+    "dmindfulness": {
+        "title": "Mindfulness ",
+        "id": "dmindfulness",
+        "inhale": 3,
+        "hold": 2,
+        "exhale": 7,
+        "wait": 9,
+        "translate": {
+            "es": "Atención plena",
+            "fr": "Pleine conscience",
+            "tr": "Farkındalık",
+            "de": "Achtsamkeit",
+            "ja": "マインドフルネス",
+            "ko": "정신적 안정",
+            "pt": "Atenção plena",
+            "it": "Consapevolezza",
+            "nl": "Mindfulness",
+            "ru": "Присутствие",
+            "ar": "الوعي الكامل"
+        }
+    },
     "lowerbp": {
         "title": "Lower blood pressure",
         "id": "dlowerbp",
@@ -151,6 +172,35 @@
             "tr": "Öfkeyi yatıştır"
         }
     },
+    "dcopd": {
+        "title": "COPD",
+        "id": "dcopd",
+        "inhale": 3,
+        "hold": 0,
+        "exhale": 7,
+        "wait": 0
+    },
+    "dquitsmoke": {
+        "title": "Quit smoking",
+        "id": "u1716411309975",
+        "inhale": 4,
+        "hold": 2,
+        "exhale": 4,
+        "wait": 1,
+        "translate": {
+            "es": "Dejar de fumar",
+            "fr": "Arrêter de fumer",
+            "tr": "Sigarayı bırak",
+            "de": "Mit dem Rauchen aufhören",
+            "ja": "禁煙",
+            "ko": "금연",
+            "pt": "Parar de fumar",
+            "it": "Smettere di fumare",
+            "nl": "Stoppen met roken",
+            "ru": "Бросить курить",
+            "ar": "الإقلاع عن التدخين"
+        }
+    },
     "coherencecardiaque": {
         "title": "Cohérence cardiaque ",
         "id": "dcoherencecardiaque",
@@ -199,7 +249,15 @@
         "wait": 2,
         "translate": {
             "es": "Respiración Nefes",
-            "tr": "Nefes Egzersizi"
+            "tr": "Nefes Egzersizi",
+            "de": "Nefes Atma",
+            "ja": "ネフェス呼吸",
+            "ko": "네페스 호흡",
+            "pt": "Respiração Nefes",
+            "it": "Respiro Nefes",
+            "nl": "Nefes ademhaling",
+            "ru": "Дыхание Нефес",
+            "ar": "تنفس نفس"
         }
     },
     "onemin1": {
@@ -354,14 +412,6 @@
             "nl": "Stress"
         }
     },
-    "VibroCalm": {
-        "title": "VibroCalm",
-        "id": "dVibroCalm",
-        "inhale": 4,
-        "hold": 0,
-        "exhale": 5,
-        "wait": 1
-    },
     "Vitalization": {
         "title": "Revitalization ",
         "id": "dVitalization",
@@ -437,15 +487,34 @@
             "it": "Respiro Danjeon 1"
         }
     },
+    "meditation": {
+        "title": "Meditation",
+        "id": "dmeditate",
+        "inhale": 5,
+        "hold": 20,
+        "exhale": 10,
+        "wait": 0,
+        "translate": {
+            "fr": "Méditation",
+            "de": "Meditation",
+            "es": "Meditación",
+            "pt": "Meditação",
+            "ja": "瞑想",
+            "ko": "명상",
+            "en": "Meditation",
+            "tr": "Meditasyon",
+            "it": "Meditazione",
+            "nl": "Meditatie"
+        }
+    },
     "cleanfourelement2": {
-        "title": "Nettoyage des 4 Eléments",
+        "title": "Cleansing the 4 Elements",
         "id": "dcleanfourelement2",
         "inhale": 4,
         "hold": 16,
         "exhale": 8,
         "wait": 0,
         "translate": {
-            "en": "Cleansing the 4 Elements",
             "es": "Limpieza de los 4 Elementos",
             "fr": "Nettoyage des 4 Éléments",
             "tr": "4 Element Temizleme",
@@ -455,30 +524,6 @@
             "pt": "Limpeza dos 4 Elementos",
             "it": "Pulizia dei 4 Elementi"
         }
-    },
-    "Fuegev1": {
-        "title": "Fuegev1-2-3",
-        "id": "dFuegev1",
-        "inhale": 5,
-        "hold": 3,
-        "exhale": 12,
-        "wait": 3
-    },
-    "AQUI": {
-        "title": "AQUI",
-        "id": "u1697858535562",
-        "inhale": 4,
-        "hold": 3,
-        "exhale": 7,
-        "wait": 1
-    },
-    "a2Semana": {
-        "title": "2Semana N. 1",
-        "id": "dtwoSemana",
-        "inhale": 5,
-        "hold": 3,
-        "exhale": 5,
-        "wait": 3
     },
     "diaf": {
         "title": "Diaphragmatic",
@@ -493,41 +538,11 @@
             "fr": "Diaphragmatique",
             "ko": "횡격막",
             "ja": "横隔膜",
-            "de": "Zwerchfell"
-        }
-    },
-    "dPeter": {
-        "title": "Peter",
-        "id": "du1698958716586",
-        "inhale": 5,
-        "hold": 8,
-        "exhale": 5,
-        "wait": 8,
-        "translate": {
-            "en": "Peter",
-            "es": "Pedro",
-            "pt": "Pedro",
-            "fr": "Pierre",
-            "ko": "피터",
-            "ja": "ピーター",
-            "de": "Peter"
-        }
-    },
-    "dalhpim": {
-        "title": "alhpim",
-        "id": "du1699085402971",
-        "inhale": 6,
-        "hold": 15,
-        "exhale": 10,
-        "wait": 0,
-        "translate": {
-            "en": "alhpim",
-            "es": "alhpim",
-            "pt": "alhpim",
-            "fr": "alhpim",
-            "ko": "알피임",
-            "ja": "アルピム",
-            "de": "alhpim"
+            "de": "Zwerchfell",
+            "it": "Diaframmatica",
+            "nl": "Diafragmatisch",
+            "ru": "Диафрагмальное",
+            "ar": "الحجاب الحاجز"
         }
     },
     "dZihin temizliği iyi geliyor bana": {
@@ -595,7 +610,7 @@
         }
     },
     "dAcamar-se": {
-        "title": "Acamar-se",
+        "title": "Calm down",
         "id": "du1699283230476",
         "inhale": 5,
         "hold": 1,
@@ -617,7 +632,7 @@
         }
     },
     "dRespiración durs": {
-        "title": "Respiración durs",
+        "title": "Durs breathing",
         "id": "du1699334052434",
         "inhale": 7,
         "hold": 2,
@@ -632,14 +647,6 @@
             "ja": "デュルスの呼吸",
             "de": "Durs Atmung"
         }
-    },
-    "drespiration369": {
-        "title": "Respiración 3 6 9",
-        "id": "du1696305645098",
-        "inhale": 3,
-        "hold": 6,
-        "exhale": 9,
-        "wait": 0
     },
     "dAnksiyete": {
         "title": "Anxiety, Panic Attack",
@@ -656,17 +663,6 @@
             "ja": "不安、パニック発作",
             "de": "Angst, Panikattacke",
             "tr": "Anksiyete,panik atak"
-        }
-    },
-    "dPersonal": {
-        "title": "Personal Breathing",
-        "id": "dPersonal",
-        "inhale": 3,
-        "hold": 7,
-        "exhale": 4,
-        "wait": 0,
-        "translate": {
-            "ru": "Личное"
         }
     },
     "dtoughendure": {
@@ -694,24 +690,36 @@
         "exhale": 6,
         "wait": 2,
         "translate": {
-            "ar": "حيوية"
+            "ar": "حيوية",
+            "es": "Vitalidad",
+            "pt": "Vitalidade",
+            "fr": "Vitalité",
+            "ko": "활력",
+            "ja": "活力",
+            "de": "Vitalität",
+            "tr": "Canlılık"
         }
     },
     "ddrangban": {
-        "title": "345 Dr Rangban. Relax",
+        "title": "Relax",
         "id": "ddrangban",
         "inhale": 3,
         "hold": 4,
         "exhale": 5,
-        "wait": 0
-    },
-    "dexhalationdd": {
-        "title": "Exhalación DyD",
-        "id": "dexhalationdd",
-        "inhale": 12,
-        "hold": 6,
-        "exhale": 8,
-        "wait": 2
+        "wait": 0,
+        "translate": {
+            "tr": "Rahatla",
+            "es": "Relajarse",
+            "pt": "Relaxar",
+            "fr": "Détendez-vous",
+            "ko": "편안해지다",
+            "ja": "リラックス",
+            "de": "Entspannen",
+            "it": "Rilassati",
+            "nl": "Ontspannen",
+            "ru": "Расслабьтесь",
+            "ar": "استرخ"
+        }
     },
     "dunderwater": {
         "title": "under water hockey exercise",
@@ -727,7 +735,20 @@
         "inhale": 5,
         "hold": 5,
         "exhale": 5,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "es": "Kundalini pranayama 1",
+            "pt": "Kundalini pranayama 1",
+            "fr": "Kundalini pranayama 1",
+            "ko": "쿤달리니 프라나야마 1",
+            "ja": "クンダリニ・プラナヤマ1",
+            "de": "Kundalini Pranayama 1",
+            "tr": "Kundalini pranayama 1",
+            "it": "Kundalini pranayama 1",
+            "nl": "Kundalini pranayama 1",
+            "ru": "Кундалини пранаяма 1",
+            "ar": "كونداليني براناياما 1"
+        }
     },
     "dKundalini2": {
         "title": "Kundalini pranayama 2",
@@ -735,7 +756,20 @@
         "inhale": 5,
         "hold": 45,
         "exhale": 8,
-        "wait": 0
+        "wait": 0,
+        "translate": {
+            "es": "Kundalini pranayama 2",
+            "pt": "Kundalini pranayama 2",
+            "fr": "Kundalini pranayama 2",
+            "ko": "쿤달리니 프라나야마 2",
+            "ja": "クンダリニ・プラナヤマ2",
+            "de": "Kundalini Pranayama 2",
+            "tr": "Kundalini pranayama 2",
+            "it": "Kundalini pranayama 2",
+            "nl": "Kundalini pranayama 2",
+            "ru": "Кундалини пранаяма 2",
+            "ar": "كونداليني براناياما 2"
+        }
     },
     "ddiving": {
         "title": "Freediving Training",
@@ -771,22 +805,6 @@
             "ja": "肺の浄化",
             "de": "Lungenreinigung"
         }
-    },
-    "dfarukfm": {
-        "title": "Faruk_FM tekniği",
-        "id": "dfarukfm",
-        "inhale": 3,
-        "hold": 5,
-        "exhale": 7,
-        "wait": 6
-    },
-    "dcopd": {
-        "title": "COPD",
-        "id": "dcopd",
-        "inhale": 3,
-        "hold": 0,
-        "exhale": 7,
-        "wait": 0
     },
     "dCalmu1711322505516": {
         "title": "Calm",
@@ -868,7 +886,10 @@
             "de": "Beseitigt die Lust",
             "ja": "欲望を排除する",
             "ko": "욕망을 제거합니다",
-            "pt": "Elimina a luxúria"
+            "pt": "Elimina a luxúria",
+            "nl": "Verlangen elimineren",
+            "ru": "Устраняет похоть",
+            "ar": "يزيل الشهوة"
         }
     },
     "doxygenationu1711763274160": {
@@ -978,7 +999,59 @@
         "exhale": 6,
         "wait": 2,
         "translate": {
-            "de": "Schlaf"
+            "de": "Schlaf",
+            "es": "Dormir",
+            "fr": "Dormir",
+            "tr": "Uyku",
+            "pt": "Dormir",
+            "ru": "Спать",
+            "ar": "نوم",
+            "zh": "睡觉",
+            "ja": "眠る",
+            "ko": "자다",
+            "id": "Tidur"
+        }
+    },
+    "dsleep2": {
+        "title": "Sleep well",
+        "id": "u1719243741177",
+        "inhale": 5,
+        "hold": 1,
+        "exhale": 7,
+        "wait": 1,
+        "translate": {
+            "de": "Gut schlafen",
+            "es": "Dormir bien",
+            "fr": "Bien dormir",
+            "tr": "İyi uyumak",
+            "pt": "Dormir bem",
+            "ru": "Хорошо спать",
+            "ar": "نم جيدًا",
+            "zh": "睡得好",
+            "ja": "よく眠る",
+            "ko": "잘 자다",
+            "id": "Tidur nyenyak"
+        }
+    },
+    "dsleep3": {
+        "title": "Breathe for 15 seconds before going to bed",
+        "id": "u1720612119488",
+        "inhale": 7,
+        "hold": 0,
+        "exhale": 8,
+        "wait": 0,
+        "translate": {
+            "de": "Atme 15 Sekunden, bevor du ins Bett gehst",
+            "es": "Respira durante 15 segundos antes de acostarte",
+            "fr": "Respirez pendant 15 secondes avant de vous coucher",
+            "tr": "Yatmadan önce 15 saniye nefes alın",
+            "pt": "Respire por 15 segundos antes de ir para a cama",
+            "ru": "Дышите 15 секунд перед сном",
+            "ar": "تنفس لمدة 15 ثانية قبل النوم",
+            "zh": "睡前15秒呼吸",
+            "ja": "寝る前15秒呼吸",
+            "ko": "자기 전 15초 동안 숨을 쉬다",
+            "id": "Bernapas selama 15 detik sebelum tidur"
         }
     },
     "dInnerpeaceu1711179354605": {
@@ -989,7 +1062,17 @@
         "exhale": 7,
         "wait": 8,
         "translate": {
-            "de": "Innere Ruhe"
+            "de": "Innere Ruhe",
+            "es": "Paz interior",
+            "fr": "Paix intérieure",
+            "tr": "İç huzur",
+            "pt": "Paz interior",
+            "ru": "Внутренний покой",
+            "ar": "سلام داخلي",
+            "zh": "内心平静",
+            "ja": "内なる平和",
+            "ko": "내적 평화",
+            "id": "Kedamaian batin"
         }
     },
     "dconsciousnessu1711692380213": {
@@ -1099,7 +1182,18 @@
         "exhale": 4,
         "wait": 0,
         "translate": {
-            "zh": "噘唇呼氣法"
+            "zhtw": "噘唇呼氣法",
+            "zh": "噘唇呼气法",
+            "ja": "口を絞って吐く",
+            "ko": "입술을 불고 내쉬기",
+            "id": "Pernapasan Bibir Terkembang",
+            "es": "Exhalación de labios fruncidos",
+            "fr": "Expiration avec les lèvres pincées",
+            "de": "Pusten mit geschürzten Lippen",
+            "pt": "Expiração com os lábios franzidos",
+            "ru": "Выдох с нахмуренными губами",
+            "ar": "التنفس بشفاه متقلبة",
+            "tr": "Dudaklarınızı bü"
         }
     },
     "d3-3-6breathingu1715235630256": {
@@ -1182,7 +1276,18 @@
         "hold": 10,
         "exhale": 4,
         "wait": 2,
-        "lang": "en"
+        "translate": {
+            "tr": "En iyi rahatlama",
+            "es": "La mejor relajación",
+            "fr": "La meilleure détente",
+            "de": "Die beste Entspannung",
+            "ja": "最高のリラックス",
+            "ko": "최고의 휴식",
+            "pt": "Melhor relaxamento",
+            "nl": "Beste ontspanning ooit",
+            "ru": "Лучшее расслабление",
+            "ar": "أفضل استرخاء"
+        }
     },
     "dTrainlungsEXTREMEu1718216213943": {
         "title": "Train lungs EXTREME",
@@ -1191,7 +1296,18 @@
         "hold": 30,
         "exhale": 9,
         "wait": 15,
-        "lang": "en"
+        "translate": {
+            "tr": "Ekstrem Akciğer Antrenmanı",
+            "es": "Entrenamiento de pulmones EXTREMO",
+            "fr": "Entraînement des poumons EXTREME",
+            "de": "Trainiere Lungen EXTREM",
+            "ja": "肺のトレーニングエクストリーム",
+            "ko": "극단적인 폐 훈련",
+            "pt": "Treino de pulmões EXTREMO",
+            "nl": "Train longen EXTREME",
+            "ru": "Экстремальная тренировка легких",
+            "ar": "تدريب الرئتين المتطرف"
+        }
     },
     "dBreathingtechniqueforsleepingu1719755680692": {
         "title": "Breathing technique for sleeping",
@@ -1254,6 +1370,48 @@
             "nl": "Intens",
             "ru": "Интенсивный",
             "ar": "كثيف"
+        }
+    },
+    "dajna": {
+        "title": "Ajna chakra",
+        "id": "u1724608501248",
+        "inhale": 4,
+        "hold": 14,
+        "exhale": 6,
+        "wait": 0,
+        "translate": {
+            "es": "Chakra Ajna",
+            "fr": "Chakra Ajna",
+            "de": "Ajna Chakra",
+            "pt": "Chakra Ajna",
+            "ja": "Ajnaチャクラ",
+            "ko": "Ajna 채크라",
+            "tr": "Ajna çakra",
+            "it": "Chakra Ajna",
+            "nl": "Ajna chakra",
+            "ru": "Чакра Аджна",
+            "ar": "الشاكرا الثالثة"
+        }
+    },
+    "dopenchak": {
+        "title": "Open Chakras (60s/1)",
+        "id": "u1727633782499",
+        "inhale": 5,
+        "hold": 40,
+        "exhale": 15,
+        "wait": 1,
+        "translate": {
+            "es": "Abrir Chakras (60s/1)",
+            "fr": "Ouvrir les chakras (60s/1)",
+            "de": "Chakren öffnen (60s/1)",
+            "pt": "Abrir Chakras (60s/1)",
+            "ja": "チャクラを開く（60秒/1）",
+            "ko": "채크라 열기 (60s/1)",
+            "tr": "Chakraları Aç (60s/1)",
+            "it": "Apri i chakra (60s/1)",
+            "nl": "Open Chakras (60s/1)",
+            "ru": "Откройте чакры (60с/1)",
+            "ar": "فتح الشاكرا (60 ثانية / 1)"
         }
     }
 }
