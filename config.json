@@ -1,12 +1,12 @@
 {
     "ios": {
         "sale": "1",
-        "minMinutes": "10",
+        "minMinutes": "90",
         "showtoSubscriber": "0"
     },
     "android": {
         "sale": "1",
-        "minMinutes": "10",
+        "minMinutes": "90",
         "showtoSubscriber": "0"
     }
 }
