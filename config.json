@@ -2,11 +2,11 @@
     "ios": {
         "sale": "1",
         "minMinutes": "0",
-        "showtoSubscriber": "0"
+        "showtoSubscriber": "1"
     },
     "android": {
         "sale": "1",
         "minMinutes": "0",
-        "showtoSubscriber": "0"
+        "showtoSubscriber": "1"
     }
 }
