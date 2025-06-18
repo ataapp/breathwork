@@ -6,7 +6,7 @@
     },
     "android": {
         "sale": "1",
-        "minMinutes": "20",
+        "minMinutes": "0",
         "showtoSubscriber": "1"
     }
 }
