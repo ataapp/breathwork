@@ -1,14 +1,14 @@
 {
     "ios": {
         "sale": "1",
-        "minMinutes": "9",
+        "minMinutes": "5",
         "showtoSubscriber": "0",
-        "prob": "0.4"
+        "prob": "0.6"
     },
     "android": {
         "sale": "1",
-        "minMinutes": "9",
+        "minMinutes": "5",
         "showtoSubscriber": "0",
-        "prob": "0.4"
+        "prob": "0.6"
     }
 }
