@@ -2,12 +2,14 @@
     "ios": {
         "sale": "1",
         "minMinutes": "5",
+        "minInstallHours": "0",
         "showtoSubscriber": "0",
         "prob": "0.8"
     },
     "android": {
         "sale": "1",
         "minMinutes": "5",
+        "minInstallHours": "0",
         "showtoSubscriber": "0",
         "prob": "0.8"
     }
